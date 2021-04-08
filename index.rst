@@ -1,19 +1,21 @@
-.. CSE112-notes documentation master file, created by
-   sphinx-quickstart on Thu Apr  8 14:46:58 2021.
+.. CSE111 Notes documentation master file, created by
+   sphinx-quickstart on Wed Apr 08 3:05:15 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CSE112-notes's documentation!
+Welcome to Matt's CSE112 notes!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
+   
+   timeshare_help
 
 
 
-Indices and tables
-==================
+Index
+-----
 
 * :ref:`genindex`
 * :ref:`modindex`
